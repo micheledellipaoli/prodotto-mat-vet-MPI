@@ -15,5 +15,7 @@ Il prodotto Matrice-Vettore viene effettuato utilizzando diverse strategie, impl
 * algoritmo parallelo che implementa la strategia a BLOCCHI di COLONNE (prodMatVetCol.c);
 * algoritmo parallelo che implementa la strategia a BLOCCHI di RIGHE e COLONNE (prodMatVetRowCol.c).
 
-Per la descrizione e l'analisi dei primi due algoritmi, consultare il file "Esercitazione2_Michele_Delli_Paoli.pdf".
+<br><br>
+
+Per la descrizione e l'analisi dei primi due algoritmi, consultare il file "Esercitazione2_Michele_Delli_Paoli.pdf".<br>
 Per la descrizione e l'analisi dell'algoritmo che implementa l'ultima strategia, consultare il file "Esercitazione3_Michele_Delli_Paoli.pdf".
