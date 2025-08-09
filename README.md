@@ -1,8 +1,7 @@
-# Prodotto Matrice Vettore utilizzando MPI
+# Prodotto matrice-vettore utilizzando MPI
+Questo repository contiene degli algoritmi paralleli sviluppati utilizzando MPI (Message Passing Interface).
 
-<br>
-
-Gli algoritmi implementati effettuano il prodotto tra:
+Nello specifico, gli algoritmi implementati effettuano il prodotto tra:
 * una Matrice A di dimensione m*n; 
 * un Vettore v di dimensione n.
 
@@ -10,7 +9,7 @@ Il risultato ottenenuto è un Vettore w di dimensione m.
 
 <br>
 
-Il prodotto Matrice-Vettore viene effettuato utilizzando diverse strategie, implementata dai seguenti algoritmi:
+Il prodotto matrice-vettore viene effettuato utilizzando diverse strategie, implementata dai seguenti algoritmi:
 * algoritmo sequenziale (il cui file è chiamato prodMatVetSeq.c);
 * algoritmo parallelo che implementa la strategia a BLOCCHI di COLONNE (prodMatVetCol.c);
 * algoritmo parallelo che implementa la strategia a BLOCCHI di RIGHE e COLONNE (prodMatVetRowCol.c).
